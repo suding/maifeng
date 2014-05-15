@@ -2,7 +2,7 @@
 <project-module
   type="WEB"
   name="test"
-  id="myeclipse.1400152248757"
+  id="myeclipse.1400152897198"
   context-root="/test"
   j2ee-spec="5.0"
   archive="test.war">
